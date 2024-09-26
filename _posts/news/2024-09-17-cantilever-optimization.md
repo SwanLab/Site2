@@ -3,7 +3,7 @@ layout: post
 title: Cantilever beam optimization under different constraints
 author: Ton Creus Costa
 categories: news
-image: {{site.url}}/assets/images/news/cantilever/cantilever_3d.gif
+image: /assets/images/news/cantilever/cantilever_3d.gif
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla pellentesque iaculis tortor, ac finibus magna accumsan quis. Fusce non massa est. Donec lobortis velit in enim sollicitudin faucibus. Aliquam vel imperdiet ipsum. Mauris id dui at nunc vestibulum vulputate quis eget lectus. Nam non diam vitae est viverra sodales. Nunc venenatis efficitur ipsum at iaculis. Pellentesque pharetra, orci nec mattis eleifend, magna lacus pulvinar leo, et porta urna leo ac metus. Sed tincidunt cursus purus ac ultricies. Aliquam risus elit, egestas dictum molestie et, ornare nec nisi. Etiam vel nisi at sem pulvinar sodales ac sed ipsum. Sed quis malesuada quam, non fermentum felis.
